@@ -1,2 +1,2 @@
-# poc_a
-kafka,rabbitmq,postgres,mongo
+# POC_A
+ kafka,rabbitmq,postgres,mongodb setup using docker compose
