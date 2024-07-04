@@ -10,8 +10,8 @@ ARG GITHUB_USER
 ARG GITHUB_TOKEN
 
 # Clone the Spring Boot application from Git
-RUN git clone https://anlkmr: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@github.com/anlkmr/poc_a.git .
-
+#RUN git clone https://anlkmr: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@github.com/anlkmr/poc_a.git .
+RUN git clone https://github.com/anlkmr/poc_a.git
 # Change working directory to the cloned repository
 WORKDIR /app/poc_a
 
