@@ -25,3 +25,5 @@ replay_pid*
 /data
 target/
 .idea
+/frontend/node
+/src/main/resources/static
